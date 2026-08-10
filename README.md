@@ -21,7 +21,7 @@ Based in Mogadishu, Somalia, and open to junior software engineering, full-stack
 - Backend: Node.js, Express, NestJS, REST APIs, JWT authentication
 - Data: PostgreSQL, MongoDB, Prisma
 - ERP: Odoo, Python, XML, custom modules, business workflow analysis
-- Delivery: Docker, Git, GitHub, Postman, Linux
+- Delivery: Docker, Git, GitHub, Linux
 
 ## What I care about
 
@@ -33,4 +33,3 @@ Based in Mogadishu, Somalia, and open to junior software engineering, full-stack
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/khalid-abdullahi-isse-0461a3366) · [GitHub](https://github.com/khalidabdullahiesse-hash)
-

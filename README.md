@@ -1,4 +1,4 @@
-V<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Khalid%20Abdullahi%20Isse&fontAlign=50&fontAlignY=40&color=0:0f172a,50:0ea5e9,100:22c55e&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%" />
 

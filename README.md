@@ -18,47 +18,6 @@
 
 # ⚡ Software Engineer
 
-```go
-package engineer
-
-type Engineer struct {
-	Name          string
-	PrimaryFocus  []string
-	Architecture  []string
-	Infrastructure []string
-	Mission       string
-}
-
-var Khalid = Engineer{
-	Name: "Khalid Abdullahi Isse",
-
-	PrimaryFocus: []string{
-		"Backend Engineering",
-		"Distributed Systems",
-		"Software Architecture",
-		"Microservices",
-	},
-
-	Architecture: []string{
-		"Secure API Design",
-		"Database Architecture",
-		"Caching",
-		"Event-Driven Systems",
-		"Observability",
-	},
-
-	Infrastructure: []string{
-		"Docker",
-		"Kubernetes",
-		"Helm",
-		"Argo CD",
-		"CI/CD",
-		"Linux",
-	},
-
-	Mission: "Engineer reliable systems that solve real business problems.",
-}
-```
 
 I focus on designing and engineering **production-oriented systems** rather than simply building isolated features.
 
@@ -70,139 +29,69 @@ My work combines:
 
 <div align="center">
 
-# ✨ Engineering Stack
+# 🛠️ Tech Stack
 
-<img src="./assets/stack-divider.svg" width="85%" />
+## 💻 Programming Languages
 
-</div>
-
-## ⚡ Languages
-
-<div align="center">
-
-<img src="./assets/icons/go-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/typescript-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/javascript-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/python-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/c-glow.svg" height="82"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`Go`   •   `TypeScript`   •   `JavaScript`   •   `Python`   •   `C`
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,c&theme=dark" />
+</p>
 
 ---
 
-## 🧠 Backend Engineering
+## 🖥️ Backend Engineering
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nestjs,nodejs&theme=dark" />
+</p>
 
-<img src="./assets/icons/gin-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/nestjs-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/nodejs-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/rest-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/odoo-glow.svg" height="82"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`Gin` • `NestJS` • `Node.js` • `REST APIs` • `Odoo`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+</p>
 
 ---
 
-## 🎨 Frontend Engineering
+## 🌐 Frontend Development
 
-<div align="center">
-
-<img src="./assets/icons/nextjs-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/react-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/tailwind-glow.svg" height="82"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`Next.js` • `React` • `Tailwind CSS`
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
+</p>
 
 ---
 
-## 🗄️ Data Layer
+## 🗄️ Databases & Caching
 
-<div align="center">
-
-<img src="./assets/icons/postgresql-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/redis-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/mongodb-glow.svg" height="82"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`PostgreSQL` • `Redis` • `MongoDB`
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+</p>
 
 ---
 
 ## ☁️ DevOps & Infrastructure
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,githubactions&theme=dark" />
+</p>
 
-<img src="./assets/icons/docker-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/kubernetes-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/helm-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/argocd-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/githubactions-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/linux-glow.svg" height="82"/>
-&nbsp;&nbsp;
-<img src="./assets/icons/nginx-glow.svg" height="82"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`Docker` • `Kubernetes` • `Helm` • `Argo CD` • `GitHub Actions` • `Linux` • `Nginx`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
 
 ---
 
-<div align="center">
+## ⚙️ Core Engineering Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge" />
+</p>
 
 # 🧬 System Architecture
 

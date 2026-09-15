@@ -1,8 +1,9 @@
+````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Khalid%20Abdullahi%20Isse&fontAlign=50&fontAlignY=40&color=0:0f172a,50:0ea5e9,100:22c55e&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&lines=Software+Engineer+%7C+Backend+Engineering;Go+%E2%80%A2+Microservices+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Helm+%E2%80%A2+ArgoCD;Architecture+%E2%86%92+Reliability+%E2%86%92+Automation+%E2%86%92+Scale" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&lines=Software+Engineer+%7C+Backend+Engineering;Go+%E2%80%A2+Microservices+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Helm+%E2%80%A2+ArgoCD;Architecture+%E2%86%92+Reliability+%E2%86%92+Automation+%E2%86%92+Scale" />
 
 <br/>
 
@@ -10,16 +11,23 @@
 
 </div>
 
-⚡ Software Engineer
+<br/>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=850&lines=%E2%9A%A1+SOFTWARE+ENGINEER" />
+
+</div>
+
+```go
 package engineer
 
 type Engineer struct {
-	Name          string
-	PrimaryFocus  []string
-	Architecture  []string
+	Name           string
+	PrimaryFocus   []string
+	Architecture   []string
 	Infrastructure []string
-	Mission       string
+	Mission        string
 }
 
 var Khalid = Engineer{
@@ -51,23 +59,39 @@ var Khalid = Engineer{
 
 	Mission: "Engineer reliable systems that solve real business problems.",
 }
+````
 
+<div align="center">
 
-I focus on designing and engineering production-oriented systems rather than simply building isolated features.
+I focus on designing and engineering **production-oriented systems** rather than simply building isolated features.
 
 My work combines:
 
-Backend Engineering • System Architecture • Databases • Security • DevOps • Cloud • Automation
+**Backend Engineering • System Architecture • Databases • Security • DevOps • Cloud • Automation**
 
-✨ Engineering Stack
+</div>
 
-💻 Programming Languages
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=800&lines=%E2%9C%A8+ENGINEERING+STACK" />
+
+</div>
+
+<br/>
+
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,c&theme=dark" />
 </p>
 
-🖥️ Backend Engineering
+<br/>
+
+<h3 align="center">🖥️ Backend Engineering</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,nestjs,nodejs&theme=dark" />
@@ -79,19 +103,25 @@ Backend Engineering • System Architecture • Databases • Security • DevOp
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
 
-🌐 Frontend Development
+<br/>
+
+<h3 align="center">🌐 Frontend Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
 </p>
 
-🗄️ Databases & Caching
+<br/>
+
+<h3 align="center">🗄️ Databases & Caching</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
 </p>
 
-☁️ DevOps & Infrastructure
+<br/>
+
+<h3 align="center">☁️ DevOps & Infrastructure</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,githubactions&theme=dark" />
@@ -102,7 +132,9 @@ Backend Engineering • System Architecture • Databases • Security • DevOp
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
 
-⚙️ Core Engineering Skills
+<br/>
+
+<h3 align="center">⚙️ Core Engineering Skills</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge" />
@@ -113,88 +145,118 @@ Backend Engineering • System Architecture • Databases • Security • DevOp
   <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge" />
 </p>
 
-🧬 System Architecture
+<br/>
 
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=22C55E&center=true&vCenter=true&repeat=false&width=850&lines=%F0%9F%A7%AC+SYSTEM+ARCHITECTURE" />
+
+</div>
+
+<br/>
+
+```text
                          CLIENTS
                             │
                             ▼
-                    ┌───────────────┐
-                    │ API / Ingress │
-                    └───────┬───────┘
-                            │
-             ┌──────────────┼───────────────┐
-             │              │               │
-             ▼              ▼               ▼
-        Auth Service    Core Service    Event Service
-             │              │               │
-             └──────┬───────┴──────┬────────┘
-                    │              │
-                    ▼              ▼
-               PostgreSQL        Redis
-                    │
-                    ▼
-                Monitoring
-                    │
-                    ▼
-        Docker → Kubernetes → Helm
-                    │
-                    ▼
-                 Argo CD
-                    │
-                    ▼
-                Production
+                     ┌───────────────┐
+                     │ API / Ingress │
+                     └───────┬───────┘
+                             │
+              ┌──────────────┼───────────────┐
+              │              │               │
+              ▼              ▼               ▼
+         Auth Service    Core Service    Event Service
+              │              │               │
+              └──────┬───────┴──────┬────────┘
+                     │              │
+                     ▼              ▼
+                PostgreSQL        Redis
+                     │
+                     ▼
+                 Monitoring
+                     │
+                     ▼
+         Docker → Kubernetes → Helm
+                     │
+                     ▼
+                  Argo CD
+                     │
+                     ▼
+                 Production
+```
 
+<br/>
 
-💎 Featured Engineering Systems
+---
 
-Advanced production-oriented projects
+<div align="center">
 
-🌐 Nexora — Distributed Social Platform
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=950&lines=%F0%9F%92%8E+FEATURED+ENGINEERING+SYSTEMS" />
 
-Go • Gin • PostgreSQL • Redis • Microservices • Docker • Kubernetes • Helm • Argo CD
+<br/>
+
+<strong>Advanced production-oriented projects</strong>
+
+</div>
+
+<br/>
+
+<h2 align="center">🌐 Nexora — Distributed Social Platform</h2>
+
+<div align="center">
+
+**Go • Gin • PostgreSQL • Redis • Microservices • Docker • Kubernetes • Helm • Argo CD**
+
+</div>
 
 Nexora is a distributed backend system designed around independent services, production deployment, secure communication and scalable infrastructure.
 
-Architecture
+<h3 align="center">Architecture</h3>
 
+```text
                          USERS
                            │
                            ▼
-                    ┌──────────────┐
-                    │   Ingress    │
-                    └──────┬───────┘
-                           │
-          ┌────────────────┼─────────────────┐
-          │                │                 │
-          ▼                ▼                 ▼
-    Auth Service      Post Service      Chat Service
-          │                │                 │
-          │                │          Notification
-          │                │              Service
-          │                │                 │
-          └─────────┬──────┴───────┬─────────┘
-                    │              │
-                    ▼              ▼
-                PostgreSQL       Redis
-                    │              │
-                    └──────┬───────┘
-                           ▼
-                        Docker
-                           │
-                           ▼
-                     Kubernetes
-                           │
-                           ▼
-                         Helm
-                           │
-                           ▼
-                       Argo CD
-                           │
-                           ▼
-                      Production
+                     ┌──────────────┐
+                     │   Ingress    │
+                     └──────┬───────┘
+                            │
+           ┌────────────────┼─────────────────┐
+           │                │                 │
+           ▼                ▼                 ▼
+     Auth Service      Post Service      Chat Service
+           │                │                 │
+           │                │          Notification
+           │                │              Service
+           │                │                 │
+           └─────────┬──────┴───────┬─────────┘
+                     │              │
+                     ▼              ▼
+                 PostgreSQL       Redis
+                     │              │
+                     └──────┬───────┘
+                            ▼
+                          Docker
+                            │
+                            ▼
+                       Kubernetes
+                            │
+                            ▼
+                           Helm
+                            │
+                            ▼
+                         Argo CD
+                            │
+                            ▼
+                       Production
+```
 
+<h3 align="center">Engineering</h3>
 
-Engineering
+<div align="center">
 
 ⚡ Microservice architecture
 ⚡ JWT access & refresh token architecture
@@ -210,12 +272,23 @@ Engineering
 ⚡ CI/CD automation
 ⚡ Secure service boundaries
 
-🏨 Enterprise Hotel ERP
+</div>
 
-A full operational ERP designed around the workflows of real hotels rather than simple CRUD operations.
+<br/>
 
-Core Systems
+---
 
+<h2 align="center">🏨 Enterprise Hotel ERP</h2>
+
+<div align="center">
+
+A full operational ERP designed around the workflows of **real hotels rather than simple CRUD operations**.
+
+</div>
+
+<h3 align="center">Core Systems</h3>
+
+```text
 Reservations
       │
       ├────► Room Availability
@@ -231,14 +304,16 @@ Reservations
       └────► Accounting
                     │
                     ▼
-              General Ledger
+               General Ledger
                     │
-           ┌────────┼────────┐
-           ▼        ▼        ▼
+            ┌───────┼────────┐
+            ▼       ▼        ▼
       Trial Balance P&L Balance Sheet
+```
 
+<h3 align="center">Platform Capabilities</h3>
 
-Platform Capabilities
+<div align="center">
 
 ⚡ Reservation lifecycle
 ⚡ Room inventory
@@ -261,12 +336,23 @@ Platform Capabilities
 ⚡ Docker deployment
 ⚡ CI/CD pipelines
 
-🏥 Medical Import & Distribution ERP
+</div>
 
-Enterprise workflow system designed for medical importing, wholesale and retail operations.
+<br/>
 
-Supply Chain
+---
 
+<h2 align="center">🏥 Medical Import & Distribution ERP</h2>
+
+<div align="center">
+
+Enterprise workflow system designed for **medical importing, wholesale and retail operations**.
+
+</div>
+
+<h3 align="center">Supply Chain</h3>
+
+```text
 PURCHASE ORDER
       │
       ▼
@@ -285,10 +371,10 @@ CUSTOMS CLEARANCE
 QUALITY CONTROL
       │
       ▼
-   RELEASE
+    RELEASE
       │
       ▼
-  INVENTORY
+   INVENTORY
       │
       ├───────────────┐
       ▼               ▼
@@ -300,9 +386,11 @@ QUALITY CONTROL
               │
               ▼
            REPORTING
+```
 
+<h3 align="center">Business Engineering</h3>
 
-Business Engineering
+<div align="center">
 
 ⚡ Procurement
 ⚡ Supplier management
@@ -318,8 +406,21 @@ Business Engineering
 ⚡ Reporting
 ⚡ Workflow automation
 
-🔐 Backend Engineering
+</div>
 
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=850&lines=%F0%9F%94%90+BACKEND+ENGINEERING" />
+
+</div>
+
+<br/>
+
+```text
 Request
    │
    ▼
@@ -351,42 +452,57 @@ Audit Logging
    │
    ▼
 Response
+```
 
+<h3 align="center">Core Areas</h3>
 
-Core Areas
+<div align="center">
 
-Authentication
+**Authentication**
 
-Authorization
+**Authorization**
 
-JWT + Refresh Tokens
+**JWT + Refresh Tokens**
 
-RBAC
+**RBAC**
 
-Ownership Validation
+**Ownership Validation**
 
-Rate Limiting
+**Rate Limiting**
 
-Redis
+**Redis**
 
-Transactions
+**Transactions**
 
-Audit Logs
+**Audit Logs**
 
-Pagination
+**Pagination**
 
-Caching
+**Caching**
 
-API Versioning
+**API Versioning**
 
-Validation
+**Validation**
 
-Error Handling
+**Error Handling**
 
-Observability
+**Observability**
 
-🚀 Delivery Pipeline
+</div>
 
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=22C55E&center=true&vCenter=true&repeat=false&width=850&lines=%F0%9F%9A%80+DELIVERY+PIPELINE" />
+
+</div>
+
+<br/>
+
+```text
 Developer
     │
     ▼
@@ -404,7 +520,7 @@ GitHub Actions
     └──── Docker
             │
             ▼
-       Container Registry
+     Container Registry
             │
             ▼
            Helm
@@ -417,23 +533,51 @@ GitHub Actions
             │
             ▼
         Production
+```
 
+<br/>
 
-📊 Engineering Activity
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khalid-Abdullahi-Isse&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Abdullahi-Isse&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-📈 Contribution Flow
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid-Abdullahi-Isse&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=850&lines=%F0%9F%93%8A+ENGINEERING+ACTIVITY" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Khalid-Abdullahi-Isse&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Abdullahi-Isse&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-🧠 Engineering Direction
+<br/>
 
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=22C55E&center=true&vCenter=true&repeat=false&width=850&lines=%F0%9F%93%88+CONTRIBUTION+FLOW" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid-Abdullahi-Isse&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=900&lines=%F0%9F%A7%A0+ENGINEERING+DIRECTION" />
+
+</div>
+
+<br/>
+
+```yaml
 backend:
   primary_language: Go
 
@@ -468,32 +612,43 @@ engineering:
   - Reliability
   - Security
   - Observability
+```
 
+<br/>
 
-🌐 Connect With Me
+---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%8C%90+CONNECT+WITH+ME" />
+
+<br/><br/>
 
 <a href="https://github.com/Khalid-Abdullahi-Isse">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Replace YOUR_LINKEDIN_URL with your LinkedIn profile URL -->
-
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=900&lines=ARCHITECTURE+%E2%86%92+RELIABILITY+%E2%86%92+AUTOMATION+%E2%86%92+SCALE" />
+
+<br/>
+
+**Engineering systems built for real users and real businesses.**
 
 </div>
 
 <br/>
 
-<div align="center">
-
-ARCHITECTURE → RELIABILITY → AUTOMATION → SCALE
-
-Engineering systems built for real users and real businesses.
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:0ea5e9,100:0f172a" width="100%" />
+```
+
+One thing you should replace before publishing is `YOUR_LINKEDIN_URL` with your real LinkedIn profile link. The rest can be pasted directly into your GitHub `README.md`.
